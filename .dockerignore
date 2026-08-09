@@ -1,0 +1,15 @@
+.git
+.cursor
+data
+docs
+infostart
+.pw-browsers
+__pycache__
+*.pyc
+/_*.py
+*.md
+Отчет*
+Отчёт*
+.env*
+*.bin
+*.zip
